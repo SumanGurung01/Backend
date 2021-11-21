@@ -1,0 +1,8 @@
+POST http://localhost:3000/addpost
+Content-Type: application/json
+
+{
+    "Name":"Sam",
+    "Registration_Number":201900110,
+    "Mark":50
+}
